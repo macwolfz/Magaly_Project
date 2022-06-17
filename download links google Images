@@ -96,3 +96,6 @@ grabUrls().then( function( urls ) {
 
 
 !python downloadImg.py --urls urls.txt --output Test/sad
+
+
+Utilizarlos en consola del navegador
